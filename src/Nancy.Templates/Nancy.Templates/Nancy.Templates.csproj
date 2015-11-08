@@ -81,31 +81,31 @@
     <Content Include="packages\Nancy.Viewengines.Razor.0.21.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Application with ASP.NET hosting and Razor.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.AspNetHost.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Application with ASP.NET hosting.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.AspNetHostWithRazor.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Application with self-hosting and Razor.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.Demo.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Application with self-hosting.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.EmptyAspNetHost.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Demo Application Template.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.EmptyAspNetHostWithRazor.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Empty Application with ASP.NET hosting and Razor.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.EmptySelfHost.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Empty Application with ASP.NET hosting.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.EmptySelfHostWithRazor.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Empty Application with self-hosting and Razor.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.SelfHost.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\CSharp\Web\Nancy Empty Application with self-hosting.zip">
+    <Content Include="ProjectTemplates\CSharp\Web\Nancy.Templates.CSharp.SelfHostWithRazor.zip">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
